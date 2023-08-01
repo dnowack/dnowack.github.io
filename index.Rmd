@@ -1,0 +1,25 @@
+---
+title: "Welcome!"
+output: html_document
+---
+
+<center>
+### **Daniel Nowack**
+#### Social science researcher at the German Institute of Development and Sustainability (IDOS)
+</center>
+
+<div style="margin-bottom:50px;">
+</div>
+
+<div class="homecontainer">
+<div class ="image">
+![](images/dn_2023.jpg)
+</div>
+<div class="hometext">
+I am a political scientist working on the topics of democratization and autocratization as well as social and cultural change. I am particularly interested in democracy promotion and support which describes how democracy can be protected and nurtured through international (development) cooperation. My research furthermore focuses on how changes in values and attitudes influence democratization and vice versa. 
+</div>
+</div>
+
+<div style="margin-bottom:150px;">
+</div>
+

@@ -1,0 +1,33 @@
+---
+title: "Outreach and science communication"
+---
+
+<div style="margin-bottom:50px;">
+</div>
+
+### Policy and briefing papers
+<details> 
+    <summary class="pubstitle"> 
+    Leininger, J., & **Nowack, D.** (2021). *Protecting democracy: the relevance of international democracy promotion for term limits*. Briefing Paper 21/2021. Bonn: German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) | [**Fulltext (eng)**](https://www.idos-research.de/uploads/media/BP_21.2021.pdf) | [**Fulltext (german)**](https://www.idos-research.de/uploads/media/AuS_6.2021.pdf) </summary>
+    <br><p class="tab">The question of whether and how democracy can be promoted and protected through international support has recently gained relevance. On the one hand, the withdrawal of NATO troops from Afghanistan has reignited a public debate on the limits of democracy promotion. On the other hand, the need for international democracy protection is growing due to an increase in autocratisation trends worldwide. DIE research shows that it is possible to effectively support and protect democracy. In this context, both the protection of central democratic institutions, such as term limits for rulers, and the promotion of democratic forces that pro-actively resist attempts at auto¬cratisation are central.</p>
+</details> 
+
+<div style="margin-bottom:25px;">
+</div>
+
+<center>
+<iframe width="450" height="325" src="https://www.youtube.com/embed/KgmOuJ6Kq-o" title="Protecting Democracy: Democracy support and presidential term limits | Daniel Nowack | IDOS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+<div style="margin-bottom:50px;">
+</div>
+
+### Opinion pieces
+<details> 
+    <summary class="pubstitle"> 
+    Mross, K., **Nowack, D.**, & Leininger, J. (2020). *We need democracy protection to counter autocratisation*. The Current Column (14 September 2020). Bonn: German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) | [**Fulltext (eng)**](https://www.idos-research.de/uploads/media/German_Development_Institute_Mross_Nowack_Leininger_14.09.2020.pdf) | [**Fulltext (german)**](https://www.idos-research.de/uploads/media/Deutsches_Institut_fuer_Entwicklungspolitik_Mross_Nowack_Leininger_14.09.2020.pdf) </summary>
+    <br><p class="tab">On 15 September, the world celebrates one of humanity’s greatest success models: democracy. When the United Nations declared this date the International Day of Democracy 13 years ago, it was being carried along by a global wave of democratisation. Since then, democracy has found itself under pressure from both internal and external forces, and there are now more autocracies than democracies in the world... .</p>
+</details>
+
+<div style="margin-bottom:50px;">
+</div>

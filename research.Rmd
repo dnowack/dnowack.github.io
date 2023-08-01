@@ -1,0 +1,66 @@
+---
+title: "Research topics"
+---
+
+<div style="margin-bottom:50px;">
+</div>
+
+### This is some of my currently ongoing research... 
+
+<div style="margin-bottom:25px;">
+</div>
+
+<div class="row no-gutters">
+  
+<div class="col-md-6 col-sm-12">
+<div class="image">
+<center>
+<img src="images/corona.jpg" title="Source: Photo by CDC on Unsplash.com">
+</center>
+</div>
+</div>
+  
+<div class="col-md-6 col-sm-12">
+<br><br>Together with my colleagues [Armin von Schiller](https://www.idos-research.de/armin-von-schiller/) and [Julia Leininger](https://www.idos-research.de/julia-leininger/), I am working on a paper that looks at the Corona pandemic's influence on social cohesion in African societies. 
+</div>
+</div>
+
+<div style="margin-bottom:25px;">
+</div>
+
+<div class="row no-gutters">
+
+<div class="col-md-6 col-sm-12">
+<div class="image">
+<center>
+<img src="images/john-cameron--_5IRj1F2rY-unsplash.jpg" title="Source: Photo by John Cameron on Unsplash.com">
+</center>
+</div>
+</div>
+
+<div class="col-md-6 col-sm-12">
+<br><br>I am part of IDOS' [Social Cohesion Team](https://www.idos-research.de/en/research/description/details/social-cohesion-in-africa/). We are working on updating our [data on social cohesion in Africa](https://www.socialcohesion.info/concepts/concept/idos-social-cohesion-concept) and are organizing a workshop on '[Perils and promises: Social cohesion amidst the global polycrisis](https://www.socialcohesion.info/)'. 
+</div>  
+
+</div>
+
+<div style="margin-bottom:25px;">
+</div>
+
+<div class="row no-gutters">
+  
+<div class="col-md-6 col-sm-12">
+<div class="image">
+<center>
+<img src="images/netzwerk.jpg" title="Source: Photo by Alina Grubnyak on Unsplash.com">
+</center>
+</div>
+</div>
+  
+<div class="col-md-6 col-sm-12">
+<br><br>I am currently working on finalizing a network analysis on a collaboration and support network between international democracy promoters and domestic civil society actors during *ad-hoc* reform episodes. 
+</div>
+</div>
+
+<div style="margin-bottom:50px;">
+</div>

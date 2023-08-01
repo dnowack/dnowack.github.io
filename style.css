@@ -1,0 +1,40 @@
+
+.homecontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+
+img {
+  max-width: 100%
+}
+
+.image {
+  flex-basis: 70%
+}
+
+.hometext {
+  font-size: 18px;
+  padding-left: 20px;
+  margin-top: -100px;
+}
+
+.pubstitle {
+  font-size: 16px;
+}
+
+.tab {
+  margin-left: 20px;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
